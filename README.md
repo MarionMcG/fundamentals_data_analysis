@@ -5,7 +5,7 @@ Project Intentions
 * Summarise the history of the box plot and situations in which it used.
 * Demonstrate the use of the box plot using data.
 * Explain any relevant terminology such as the terms quartile and percentile.
-* Compare the box plot to alternatives.
+* Compare the box plot to alternatives, highlighting some limitations of Tukey's original design.
 
 In this repository you will find my investigation. The body of my work in contained in the Jupyter notebook boxplots.ipynb; including all code, explanations and references. 
 
@@ -22,12 +22,12 @@ In this file you will find:
 * Open a terminal, such as Command Prompt. I will be using [Cmdr.exe](http://cmder.net/), but it doesn't matter which command line interpreter you use. 
 * You must have Python and Jupyter installed on your machine before you continue. Use command, 'jupyter -- version' and 'python --version' to determine this, and also to see which version is installed on your machine. 
 
-![](images/openipynb1.jpeg)
+![](https://github.com/MarionMcG/Images/blob/master/openipynb1.jpeg?raw=true)
 
 * If Jupyter Notebook is **not** installed, you should download [Anaconda](https://www.anaconda.com/download/) which supports Jupyter notebook files, and Python code. 
 * Once Jupyter is installed, type the command, 'jupyter notebook' to open a static webpage displaying the folder you're currently in. You may need to copy and paste the URL (highlighted below) that appears on the command line, if a webpage doesn't automatically open. 
 
-![](images/openipynb2.JPG)
+![](https://github.com/MarionMcG/Images/blob/master/openipynb2.JPG?raw=true)
 
 **NOTE:** When opening Jupyter notebook, ensure the cloned repository is in a subdirectory of the folder you are in. 
 
@@ -43,8 +43,3 @@ Once in command mode, you can navigate up and down the notebook using arrow keys
 
 You can also run an individual cell, by pressing Shift + Enter.
 
-### 4. Appproach and Evaluation 
-
-**Evaluation**
-
-### 5. Areas of Difficulty
