@@ -14,6 +14,7 @@ In this file you will find:
 2. Instructions on how to open the notebook on your machine.
 3. How to run code cells in an open ipynb notebook.
 
+Alternatively, you can view the ipynb file [here](http://nbviewer.jupyter.org/github/MarionMcG/data-analysis-project/blob/master/boxplots.ipynb).
 
 ### 1. Downloading an ipynb file from Github
 * I'd recommend that you download or clone the entire repository with all of its dependencies, rather than just downloading the ipynb notebook. 
