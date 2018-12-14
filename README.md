@@ -4,17 +4,12 @@
 Project Intentions
 * Summarise the history of the box plot and situations in which it used.
 * Demonstrate the use of the box plot using data.
-* Explain any relevant terminology such as the terms quartile and percentile.
+* Explain any relevant terminology and mathematical definitions.
 * Compare the box plot to alternatives, highlighting some limitations of Tukey's original design.
 
-In this repository you will find my investigation. The body of my work in contained in the Jupyter notebook boxplots.ipynb; including all code, explanations and references. 
+IMy investigation is contained in the Jupyter notebook above.
 
-In this file you will find:
-1. Information on how to download and save the ipynb notebook.
-2. Instructions on how to open the notebook on your machine.
-3. How to run code cells in an open ipynb notebook.
-
-Alternatively, you can view the ipynb file [here](http://nbviewer.jupyter.org/github/MarionMcG/data-analysis-project/blob/master/boxplots.ipynb).
+If you're unfamiliar with Jupyter notebooks, notes on how to download and use the ipynb file can be found below. Alternatively, you can view the ipynb file [here](http://nbviewer.jupyter.org/github/MarionMcG/data-analysis-project/blob/master/boxplots.ipynb).
 
 ### 1. Downloading an ipynb file from Github
 * I'd recommend that you download or clone the entire repository with all of its dependencies, rather than just downloading the ipynb notebook. 
