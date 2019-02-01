@@ -1,5 +1,5 @@
 # fundamentals_data_analysis
-## Semester 2 Module
+## Semester 2 (Sept 2018) Module
 
 In this repository, you will find code demonstrations from the module, Fundamentals of Programming for Data Analysis. 
 
