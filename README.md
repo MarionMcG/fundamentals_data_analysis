@@ -1,16 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # fundamentals_data_analysis
-Semester 2 Module
-=======
-# Lady Tasting Tea - An Investigation 
+## Semester 2 Module
 
-## Fundamentals of Data Analysis (Sept 2018)
+In this repository, you will find code demonstrations from the module, Fundamentals of Programming for Data Analysis. 
 
-This is my version of the demo worked through in Lecture on 5th October 2018
->>>>>>> old_a/master
+This repo also contains my fin\l project for this module, the details of which can be found below, alongside instructions on how to open and run cells in a Jupyter notebook. 
+
 =======
-# Project 2018
+
 ## Fundamentals of Data Analysis Final Project
 
 Project Intentions
@@ -19,7 +15,7 @@ Project Intentions
 * Explain any relevant terminology and mathematical definitions.
 * Compare the box plot to alternatives, highlighting some limitations of Tukey's original design.
 
-IMy investigation is contained in the Jupyter notebook above.
+My investigation is contained in the Jupyter notebook, boxplots.ipynb above.
 
 If you're unfamiliar with Jupyter notebooks, notes on how to download and use the ipynb file can be found below. Alternatively, you can view the ipynb file [here](http://nbviewer.jupyter.org/github/MarionMcG/data-analysis-project/blob/master/boxplots.ipynb).
 
@@ -51,4 +47,3 @@ Once in command mode, you can navigate up and down the notebook using arrow keys
 
 You can also run an individual cell, by pressing Shift + Enter.
 
->>>>>>> old_b/master
