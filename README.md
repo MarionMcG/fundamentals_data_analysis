@@ -1,7 +1,7 @@
 
 ## Semester 2 (Sept 2018), Fundamentals of Data Analysis
 
-In this repository, you will find code demonstrations from the module, Fundamentals of Programming for Data Analysis. 
+In this repository, you will find lecture notes and code demonstrations from the module, Fundamentals of Programming for Data Analysis. 
 
 This repo also contains my final project for this module, the details of which can be found below, alongside instructions on how to open and run cells in a Jupyter notebook. 
 
