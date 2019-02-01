@@ -5,7 +5,7 @@ In this repository, you will find code demonstrations from the module, Fundament
 
 This repo also contains my final project for this module, the details of which can be found below, alongside instructions on how to open and run cells in a Jupyter notebook. 
 
-=======
+
 
 ## Fundamentals of Data Analysis Final Project
 
