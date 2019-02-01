@@ -1,5 +1,5 @@
 
-## Semester 2 (Sept 2018) Module
+## Semester 2 (Sept 2018), Fundamentals of Data Analysis
 
 In this repository, you will find code demonstrations from the module, Fundamentals of Programming for Data Analysis. 
 
@@ -17,7 +17,7 @@ Project Intentions
 
 My investigation is contained in the Jupyter notebook, boxplots.ipynb above.
 
-If you're unfamiliar with Jupyter notebooks, notes on how to download and use the ipynb file can be found below. Alternatively, you can view the ipynb file [here](http://nbviewer.jupyter.org/github/MarionMcG/data-analysis-project/blob/master/boxplots.ipynb).
+If you're unfamiliar with Jupyter notebooks, notes on how to download and use the ipynb file can be found below. Alternatively, you can view the ipynb file [here](https://nbviewer.jupyter.org/github/MarionMcG/fundamentals_data_analysis/blob/master/boxplots.ipynb).
 
 ### 1. Downloading an ipynb file from Github
 * I'd recommend that you download or clone the entire repository with all of its dependencies, rather than just downloading the ipynb notebook. 
